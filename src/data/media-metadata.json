@@ -1,0 +1,102 @@
+[
+  {
+    "file": "01-reality-nyc.mp4",
+    "duration": 5.04,
+    "width": 4096,
+    "height": 2304,
+    "bytes": 11401307,
+    "webDuration": 4.96,
+    "trimStart": 0,
+    "webBytes": 2311622
+  },
+  {
+    "file": "02-human-need-walk.mp4",
+    "duration": 5.04,
+    "width": 4096,
+    "height": 2304,
+    "bytes": 59407805,
+    "webDuration": 4.96,
+    "trimStart": 0,
+    "webBytes": 7433631
+  },
+  {
+    "file": "03-finding-way-phone-up.mp4",
+    "duration": 5.04,
+    "width": 4096,
+    "height": 2304,
+    "bytes": 23669225,
+    "webDuration": 4.96,
+    "trimStart": 0,
+    "webBytes": 3846365
+  },
+  {
+    "file": "04a-fridge-discovery.mp4",
+    "duration": 5.04,
+    "width": 4096,
+    "height": 2304,
+    "bytes": 44092254,
+    "webDuration": 4.01,
+    "trimStart": 0.95,
+    "webBytes": 5242225
+  },
+  {
+    "file": "05-open-fridge.mp4",
+    "duration": 5.04,
+    "width": 4096,
+    "height": 2308,
+    "bytes": 15045247,
+    "webDuration": 4.96,
+    "trimStart": 0,
+    "webBytes": 2945208
+  },
+  {
+    "file": "06-take-corn.mp4",
+    "duration": 5.04,
+    "width": 4096,
+    "height": 2290,
+    "bytes": 14454313,
+    "webDuration": 4.86,
+    "trimStart": 0.1,
+    "webBytes": 2794555
+  },
+  {
+    "file": "07a-remaining-food.mp4",
+    "duration": 4.04,
+    "width": 4096,
+    "height": 2258,
+    "bytes": 7646850,
+    "webDuration": 3.96,
+    "trimStart": 0,
+    "webBytes": 1458031
+  },
+  {
+    "file": "08-volunteer-onsite-check.mp4",
+    "duration": 4.04,
+    "width": 4096,
+    "height": 2304,
+    "bytes": 21955492,
+    "webDuration": 3.96,
+    "trimStart": 0,
+    "webBytes": 3568074
+  },
+  {
+    "file": "09-next-neighbor.mp4",
+    "duration": 5.04,
+    "width": 4096,
+    "height": 2304,
+    "bytes": 29252082,
+    "webDuration": 4.96,
+    "trimStart": 0,
+    "webBytes": 4594070
+  },
+  {
+    "file": "10-the-next-neighbor-film.mp4",
+    "duration": 42.67,
+    "width": 3840,
+    "height": 2160,
+    "bytes": 85184324,
+    "webDuration": 42.59,
+    "trimStart": 0,
+    "webBytes": 12570209
+  }
+]

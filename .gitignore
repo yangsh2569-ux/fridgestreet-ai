@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.DS_Store
+qa/
+*.tar.gz
+.npm-cache/
+.tools/
+source-media/
